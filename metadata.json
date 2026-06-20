@@ -1,0 +1,6 @@
+{
+  "name": "Aurelian Art",
+  "description": "The official minimalist fine art portfolio of contemporary multidisciplinary artist Aurelian. Featuring the permanent collection, artist biography, exhibition CV, and contact inquiry portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
